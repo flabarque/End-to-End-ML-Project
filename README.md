@@ -1,8 +1,6 @@
 # End-to-End-ML-Project
 
-**End-to-End Machine Learning Project** - Chapter II
-"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)"
-by Aurélien Géron
+**End-to-End Machine Learning Project** - Chapter II - "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)" by Aurélien Géron
 
 In this chapter the authors will work through a fictitious example, to illustrate the main steps of a Machine Learning project.
 
