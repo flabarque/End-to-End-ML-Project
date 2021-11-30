@@ -6,18 +6,19 @@ In this chapter the authors will work through a fictitious example, to illustrat
 
 We will use the California Housing Prices dataset from the StatLib repository. The original dataset appeared in Pace & Barry (1997): "Sparse Spatial Autoregressions", Statistics & Probability Letters 33(3): 291--297.
 
-Metrics:
+**Metrics**:
 
-longitude
-latitude
-housing_median_age
-total_rooms
-total_bedrooms
-population
-households
-median_income
-median_house_value
-ocean_proximity
-Model Prediction:
+* longitude
+* latitude
+* housing_median_age
+* total_rooms
+* total_bedrooms
+* population
+* households
+* median_income
+* median_house_value
+* ocean_proximity
+
+**Model Prediction**:
 
 Median housing price in any district, given all the other metrics.
